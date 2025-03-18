@@ -2,7 +2,7 @@ body{
     background-color: hsl(30, 38%, 92%)
 }
 .project{
-    width: 90vh;
+    width: 85vh;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -49,6 +49,7 @@ body{
     background: hsl(158, 42%, 18%);
     padding: 10px 20px;
     border-radius: 10px;
+    font-size: 20px
 }
 .project .contact .content .go a{
     text-decoration: none;
